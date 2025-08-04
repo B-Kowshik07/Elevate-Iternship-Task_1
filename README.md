@@ -1,1 +1,17 @@
-#  Elevate Iternship Task-1
+#  Simple Calculator CLI App
+This is a basic command-line calculator application written in Python. It performs the four main arithmetic operations: addition, subtraction, multiplication, and division.
+
+Features:
+Uses functions for each operation (+, -, *, /).
+Takes user input for operation choice and numbers.
+Loops continuously until the user chooses to exit.
+Handles division by zero with an error message.
+Displays results after each calculation.
+
+
+How to Use:
+1.Run the Python script.
+2.Choose an operation by entering a number between 1 and 5.
+3.Enter two numbers when prompted.
+4.View the result displayed on the screen.
+5.Repeat or choose option 5 to exit the program.
